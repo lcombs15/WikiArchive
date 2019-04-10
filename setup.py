@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="wiki-archive-combsl10",
-    version="0.0.5",
+    version="0.0.6",
     author="Lucas Combs",
     author_email="l-combs@hotmail.com",
     description="An easy way to archive flash markdown pages",
